@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+api-php/vendor/
+
+api-php/.idea/
+
+mcp-server/node_modules/
